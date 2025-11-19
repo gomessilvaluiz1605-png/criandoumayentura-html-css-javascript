@@ -1,0 +1,6 @@
+boody{
+  background-color:#1D4221;
+  color:white;
+  font-family:"baiJamjuree",sans-serif;
+  display:flex;
+  justify-cotent:center;
